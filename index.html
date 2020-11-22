@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sliding Sign In Forms</title>
+    <script src="https://unpkg.com/swup@latest/dist/swup.min.js"></script>
+    <script defer src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <main id="swup">
+      <div class="sign-in-bg transition-fade-bg-right"></div>
+      <div class="logo">
+        <a href="#">
+          <img src="./img/logo.svg" alt="logo" />
+        </a>
+      </div>
+
+      <div class="sign-in-panel transition-fade-right">
+        <h3>Hello</h3>
+        <div class="sign-in-deco">
+          <img src="./img/sign_in.svg" alt="sign in illustration" />
+        </div>
+      </div>
+
+      <div class="sign-in-form-container transition-fade-left">
+        <div class="sign-in-form">
+          <h4>Sign In</h4>
+          <div class="input-field">
+            <i class="fas fa-user"></i>
+            <input type="text" placeholder="Username" />
+          </div>
+          <div class="input-field">
+            <i class="fas fa-lock"></i>
+            <input type="password" placeholder="Password" />
+          </div>
+          <input type="submit" value="Login" class="sign-in-btn" />
+          <div class="forgot-password">
+            <a href="#">Forgot password?</a>
+          </div>
+
+          <p class="social-media-text">Or Sign in with social platforms</p>
+          <div class="social-media">
+            <a href="#" class="social-icon">
+              <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href="#" class="social-icon">
+              <i class="fab fa-twitter"></i>
+            </a>
+            <a href="#" class="social-icon">
+              <i class="fab fa-google"></i>
+            </a>
+            <a href="#" class="social-icon">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+          </div>
+
+          <div class="to-sign-up-btn">
+            <p>New here? Please <a href="/../sign_up_form.html">sign up</a>.</p>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
