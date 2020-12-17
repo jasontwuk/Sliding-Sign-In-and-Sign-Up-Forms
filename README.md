@@ -2,7 +2,7 @@
 
 These are sign in and sign up forms that are inspired by <a href="https://github.com/sefyudem/Sliding-Sign-In-Sign-Up-Form">sefyudem</a>. You can click the "sign in" and "sign up" buttons on the webpages to see how the sliding effort works.
 
-Live site: https://jasontwuk.github.io/Sliding-sign-In-and-Sign-Up-Forms/
+Live site: https://jasontwuk.github.io/Sliding-Sign-In-and-Sign-Up-Forms/
 
 <h4>Used technologies</h4>
 <ul>
