@@ -1,25 +1,25 @@
 # Sliding Sign-In and Sign-Up Forms
 
-These are sign in and sign up forms that are inspired by <a href="https://github.com/sefyudem/Sliding-Sign-In-Sign-Up-Form">sefyudem</a>. You can click the "sign in" and "sign up" buttons on the webpages to see how the sliding effort works.
+These are sign in and sign up forms. I used some sliding effects from swup.js to swap between these two forms. You can click the "sign in" and "sign up" buttons on the webpages to see how the sliding effort works.
+
+These are sign in and sign up forms that are inspired by [sefyudem](https://github.com/sefyudem/Sliding-Sign-In-Sign-Up-Form).
 
 Live site: https://jasontwuk.github.io/Sliding-Sign-In-and-Sign-Up-Forms/
 
-<h4>Used technologies</h4>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Vanilla JS</li>
-  <li><a href="https://github.com/swup/swup">swup.js</a></li>
-</ul>
+#### Used technologies
 
-<h4>Used resource</h4>
-<ul>
-  <li><a href="https://undraw.co/">unDraw</a></li>
-</ul>
+- HTML5
+- CSS3
+- Vanilla JS
+- [swup.js](https://github.com/swup/swup)
 
-<p>Here is how it looks like:</p>
-<img src="./img/sliding-1.png" alt="sliding image">
+#### Used resource
 
-<img src="./img/sliding-2.png" alt="sliding image">
+- [unDraw](https://undraw.co/)
 
-<img src="./img/sliding-3.png" alt="sliding image">
+Here is how it looks like:
+![sliding forms](./img/sliding-1.png)
+
+![sliding forms](./img/sliding-2.png)
+
+![sliding forms](./img/sliding-3.png)
