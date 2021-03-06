@@ -18,8 +18,8 @@ Live site: https://jasontwuk.github.io/Sliding-Sign-In-and-Sign-Up-Forms/
 - [unDraw](https://undraw.co/)
 
 Here is how it looks like:
-![sliding forms](./img/sliding-1.png)
+![sliding-1](https://user-images.githubusercontent.com/13745974/110215644-cfbcf100-7ea2-11eb-81a3-6a336253054f.png)
 
-![sliding forms](./img/sliding-2.png)
+![sliding-2](https://user-images.githubusercontent.com/13745974/110215670-ebc09280-7ea2-11eb-9dd6-4d34b380b7a8.png)
 
-![sliding forms](./img/sliding-3.png)
+![sliding-3](https://user-images.githubusercontent.com/13745974/110215680-f418cd80-7ea2-11eb-9902-2c4500e3d6b5.png)
